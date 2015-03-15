@@ -27,6 +27,15 @@
 		"image":"img/chen.jpg"
 	},
 	{
+		"name": "Rohan Doshi, Juan Sepulveda, Ruiqi Mao",
+		"year": "2018 (all)",
+		"major": "ELE, MAE, COS (respectively)",
+		"title":"Internet for All: Making Every Phone a Smartphone",
+		"subtitle": "Short description",
+		"description":"Smartphone users around the world take advantage of their internet connection every day to learn new information, explore their surroundings, and make informed decisions.  Considering how routine internet access via phone has become for these individuals, they might have a hard time imagining being cut off from the internet.  But for 2.8 billion people, making up two in three mobile device users, that is the status quo – they don’t own smartphones.  Is there a way to give these individuals the same access to the internet that smartphone users have? JusText, a project developed by Rohan Doshi, Juan Sepulveda, and Ruiqi Mao, accomplished just that.  The vision of JusText is simple: connect all phones, dumb or smart, to the internet through text messages.  This foundation of text messages means that any phone can access resources without an internet connection. Here’s how it works:  A phone sends a text message containing a request for information to JusText’s number. Then, the servers at JusText, which have a connection to the internet, will do the research for the client and respond with the results.  It’s that simple. JusText was awarded “1st in Software” and “Best Use of Microsoft Technology” at HackPrinceton and was just selected for TigerLaunch, Princeton’s startup competition.  When not busy expanding internet connection, Rohan enjoys composing electronic dance music, Juan enjoys developing his design skills, and Ruiqi enjoys building and programming robots.",
+		"image":"img/doshi_sepulveda_mao.jpg"
+	},
+	{
 		"name": "Anne Merrill",
 		"year": 2018,
 		"major": "Undecided",
@@ -51,7 +60,7 @@
 		"title":"A Sure Sign of Progress: Revolutionizing ASL Education with SignSchool",
 		"subtitle": "Short description",
 		"description":"Communication is a crucial aspect of any friendship. When they first met, Colin, Evan, and Jack became instant friends; however, Colin is Deaf and uses American Sign Language (ASL), so communication was a challenge for the trio. Written communication proved to be inefficient and learning ASL online was difficult. Inspired by their communication struggle, Colin, Evan, and Jack teamed up to found SignSchool. SignSchool is a user-friendly online platform that utilizes a modular curriculum of video lessons and interactive exercises to teach ASL. With their revolutionary approach to ASL education, the team hopes to improve everyday communication and accessibility between the Deaf and the hearing.",
-		"image":"img/lualdi_corden_hudson.jpg"
+		"image":"img/lualdi_cordon_hudson.jpg"
 	},
 	{
 		"name": "Collin Stedman",
@@ -61,15 +70,6 @@
 		"subtitle": "Short description",
 		"description":"At its core, the Internet is a large network of computers (or servers) communicating with one another through data packets. The nature of these packets varies depending on the connection, but all are encrypted – if not, any one observing the traffic can deduce where the packet is coming from, allowing them to not only monitor a specific person’s Internet activities, but also gain hold of personal and sensitive information, making the sender and receiver prone to attacks. But is it possible to guess the purpose of an encrypted packet only based on its destination? Collin Stedman decided to put this question to the test at HackPrinceton, Fall 2014. The result was HostShark, a software that captures and analyzes (sniffs) outgoing data packets and then visualizes the data and hostnames (destination sites). HostShark implements Tshark, a terminal-based packet analyzer, and D3.js, a tool of data visualization. During HackPrinceton, Stedman was able to sniff Princeton’s wireless network for HTTPS (a specific type of protocol for secure communication) traffic. Without decrypting any data, any one using HostShark can know where network traffic is going. HostShark may even be able to guess the contents of data packets only by analyzing the proxies to which the data is bound. HostShark demonstrates just how revealing Internet metadata can be, and how easily accessible it is on a public network.",
 		"image":"img/stedman.jpg"
-	},
-	{
-		"name": "Dan Kang, Charles Marsh, Shubhro Saha",
-		"year": "2015 (all)",
-		"major": "COS (all)",
-		"title":"The Altcoin Ecosystem: A Quantitative Analysis of Cryptocurrencies",
-		"subtitle": "Short description",
-		"description":"Cryptocurrencies are mediums of exchange (money) that use cryptography to secure transactions. Bitcoin is the most prominently known cryptocurrency. But outside it, there exist hundreds of 'Bitcoin alternatives', or altcoins, each of which differs from Bitcoin in some (often small) way; each has its own community of users, exchange rate, etc. Despite this diversity, however, little academic research has assessed altcoins from a quantitative perspective. In their project for Fall COS597E (Bitcoin and Cryptocurrency technologies), Dan Kang, Charles Marsh, and Shubhro Saha addressed this gap in research, analyzing a dozen altcoin blockchains (transaction database for cryptocurrencies). Taking a fresh approach, they constructed complex transaction graphs, discovering insightful correlations and spending patterns. Through their results, Kang, Marsh, and Saha painted an altcoin ecosystem in which prices are highly correlated across coins and wealth is far more concentrated in relatively mature cryptocurrencies, like Bitcoin. A complete presentation of their project has been uploaded onto Youtube. The three computer science majors have worked with one another on previous projects. Their most recent collaboration, the Hack Class ('An Introduction to Side Projects'), is set to be offered this year by Princeton Entrepreneurship Club.",
-		"image":"img/img1.jpg"
 	},
 	{
 		"name": "David Kong",
@@ -99,15 +99,6 @@
 		"image":"img/ma.jpg"
 	},
 	{
-		"name": "Jessica Ma",
-		"year": 2015,
-		"major": "WWS",
-		"title":"Turning the Tables on Employers: A New Program Gives Students and Applicants an Edge in the Hiring Process",
-		"subtitle": "Short description",
-		"description":"Over the next few months, Princeton students of all different ages will experience a nervewracking part of real life, many for the first time: applying for summer work.  Jessica Ma, a member of the Woodrow Wilson School and occasional bartender, has a plan to give students and applicants an edge in the job search.  Jessica’s website, startupLinx, seeks to help students find select startups that fit their interests, rather than fighting for the attention of employers.  The website allows applicants to read review from friends and colleagues for different companies, build new connections and networks based around background and interest, and design a profile that draws employers.  Jessica’s company has taken off with the Princeton community, and she cannot wait to see how startupLinx changes the way students approach the job search – from fear and trepidation, to confidence and enthusiasm for finding a career that they are passionate about.",
-		"image":"img/img1.jpg"
-	},
-	{
 		"name": "Joseph Bolling, Ankush Gola",
 		"year": "2015 (both)",
 		"major": "ELE (both)",
@@ -123,7 +114,7 @@
 		"title":"Building Semantic Vectors for Noun Compounds",
 		"subtitle": "Short description",
 		"description":"For his junior independent project, Kiran Vodrahalli worked with Professor Fellbaum in the field of Natural Language Processing (NLP). A major goal of NLP is to create computer algorithms that can process languages and extract information from unstructured linguistic inputs. Many people are able to create these programs by representing words as “semantic vectors”, which are encoded by real numbers in high dimensional real space. In his study, Kiran built upon previous methods for building word vectors, specifically for noun compounds; a noun compound is a phrase like 'stone pot', consisting of two or more nouns that are joined together to give the combination a joint meaning that is distinct from the meanings of the individual words. Kiran is also an avid reader and writer and enjoys the science fiction and fantasy book genres.",
-		"image":"img/vodrahalli.jpg"
+		"image":"img/vodrahalli.png"
 	},
 	{
 		"name": "Laura Herman",
@@ -144,7 +135,7 @@
 		"image":"img/albert.jpg"
 	},
 	{
-		"name": "Pavel Shibayev (Director), Luca Iliesiu (Coordination Chair/Problem Czar), Ioanna Kourkoulou (Registration and Volunteering Chair), Nathan Agmon (Judging Chair), Andrew Sharo (Logistics and Technology Chair), Daksh Sharma (Finance Chair), Himawan Winarto, Roberta Raileanu, Mark Stone, Sandy Yuan, Charles Guo, Thomas Hartke, and many volunteers and judges.",
+		"name": "Outstanding Individuals from the Physics Department",
 		"year": "",
 		"major": "",
 		"title":"Princeton University Physics Competition: Giving High Schoolers Around the Globe the Opportunity to Challenge their Physics Knowledge",
@@ -160,15 +151,6 @@
 		"subtitle": "Short description",
 		"description":"Pranav Gokhale’s incredible creation will truly make life much easier for the many smartphone users here on campus and all over the globe. Pranav’s project, “TypeAway” is an innovative textual input system built over the course of 2014, which solves the problem of typing for devices such as tablets, smartphones, and wearables. With these next-generation computing devices, QWERTY keyboards are just too large, taking up precious screen real estate. TypeAway innovatively gets around this problem, focusing on the idea that the user should be able to type words as if using a regular keyboard without ever having a real keyboard present. While this sounds like a messaging improvement too good to be true, the system works by using a USB device to sense the user’s finger movements and infer which words the user intended to type. TypeAway integrates cutting-edge research in machine learning and data structures to provide fast and accurate spellcheck, prediction, disambiguation, and autocorrect. Pranav is not only an innovator but also an adventurer, aspiring to one day become a BASE jumper, stating that the best experience he has ever had was skydiving. ",
 		"image":"img/gokhale.jpg"
-	},
-	{
-		"name": "Rohan Doshi, Juan Sepulveda, Ruiqi Mao",
-		"year": "2018 (all)",
-		"major": "ELE, MAE, COS (respectively)",
-		"title":"Internet for All: Making Every Phone a Smartphone",
-		"subtitle": "Short description",
-		"description":"Smartphone users around the world take advantage of their internet connection every day to learn new information, explore their surroundings, and make informed decisions.  Considering how routine internet access via phone has become for these individuals, they might have a hard time imagining being cut off from the internet.  But for 2.8 billion people, making up two in three mobile device users, that is the status quo – they don’t own smartphones.  Is there a way to give these individuals the same access to the internet that smartphone users have? JusText, a project developed by Rohan Doshi, Juan Sepulveda, and Ruiqi Mao, accomplished just that.  The vision of JusText is simple: connect all phones, dumb or smart, to the internet through text messages.  This foundation of text messages means that any phone can access resources without an internet connection. Here’s how it works:  A phone sends a text message containing a request for information to JusText’s number. Then, the servers at JusText, which have a connection to the internet, will do the research for the client and respond with the results.  It’s that simple. JusText was awarded “1st in Software” and “Best Use of Microsoft Technology” at HackPrinceton and was just selected for TigerLaunch, Princeton’s startup competition.  When not busy expanding internet connection, Rohan enjoys composing electronic dance music, Juan enjoys developing his design skills, and Ruiqi enjoys building and programming robots.",
-		"image":"img/doshi_sepulveda_mao.jpg"
 	},
 	{
 		"name": "Scott Wise",
@@ -215,6 +197,23 @@
 		"description":"We use Facebook to connect with friends, Instagram to share our photos, LinkedIn to look for jobs, Reddit to discover weird and interesting posts - the list goes on and on. The modern Internet user has a wide variety of social media tools that allow you to view and post content to your heart’s content. But each user has a unique personality and particular passions that drive him or her. For example, Vidushi Sharma, a sophomore philosophy major, has a wide range of interests, from drawing and writing about the people she meets while traveling to learning ancient languages like Latin and Greek. And despite all her social media outlets, there isn’t a central online location for her to meet others who share her passions. Vidushi Sharma’s website, theHOBMOB.com, aims to fill this gap. theHOBMOB lets you join groups with specific interests, whether “Literature & Mind” or “Gaming”. In that group, you can make and comment on posts, start a member blog, or even create subinterests that better address your particular passion. On theHOBMOB, you connect through interests, which would allow Vidushi to meet other travel writers sharing their stories. Then with the click of a button, she could switch to another interest group, perhaps filled with other ancient language enthusiasts practicing their Latin. Vidushi hopes that theHOBMOB will be a platform that connects people from around the globe with others who share their passions, allowing them to have meaningful and interesting conversations about the things they love. ",
 		"image":"img/sharma.jpg"
 	},
-
+	{
+		"name": "Dan Kang, Charles Marsh, Shubhro Saha",
+		"year": "2015 (all)",
+		"major": "COS (all)",
+		"title":"The Altcoin Ecosystem: A Quantitative Analysis of Cryptocurrencies",
+		"subtitle": "Short description",
+		"description":"Cryptocurrencies are mediums of exchange (money) that use cryptography to secure transactions. Bitcoin is the most prominently known cryptocurrency. But outside it, there exist hundreds of 'Bitcoin alternatives', or altcoins, each of which differs from Bitcoin in some (often small) way; each has its own community of users, exchange rate, etc. Despite this diversity, however, little academic research has assessed altcoins from a quantitative perspective. In their project for Fall COS597E (Bitcoin and Cryptocurrency technologies), Dan Kang, Charles Marsh, and Shubhro Saha addressed this gap in research, analyzing a dozen altcoin blockchains (transaction database for cryptocurrencies). Taking a fresh approach, they constructed complex transaction graphs, discovering insightful correlations and spending patterns. Through their results, Kang, Marsh, and Saha painted an altcoin ecosystem in which prices are highly correlated across coins and wealth is far more concentrated in relatively mature cryptocurrencies, like Bitcoin. A complete presentation of their project has been uploaded onto Youtube. The three computer science majors have worked with one another on previous projects. Their most recent collaboration, the Hack Class ('An Introduction to Side Projects'), is set to be offered this year by Princeton Entrepreneurship Club.",
+		"image":"img/img1.jpg"
+	},
+	{
+		"name": "Jessica Ma",
+		"year": 2015,
+		"major": "WWS",
+		"title":"Turning the Tables on Employers: A New Program Gives Students and Applicants an Edge in the Hiring Process",
+		"subtitle": "Short description",
+		"description":"Over the next few months, Princeton students of all different ages will experience a nervewracking part of real life, many for the first time: applying for summer work.  Jessica Ma, a member of the Woodrow Wilson School and occasional bartender, has a plan to give students and applicants an edge in the job search.  Jessica’s website, startupLinx, seeks to help students find select startups that fit their interests, rather than fighting for the attention of employers.  The website allows applicants to read review from friends and colleagues for different companies, build new connections and networks based around background and interest, and design a profile that draws employers.  Jessica’s company has taken off with the Princeton community, and she cannot wait to see how startupLinx changes the way students approach the job search – from fear and trepidation, to confidence and enthusiasm for finding a career that they are passionate about.",
+		"image":"img/img1.jpg"
+	}
 
 ]
